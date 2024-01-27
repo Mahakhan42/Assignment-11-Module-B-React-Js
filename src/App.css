@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+color: #fff;
+font-family :"Times New Roman";
+}
+.header{
+  background-color: black;
+}
+.icons{
+  color:#fff;
+  padding: 40px;
+  text-indent: 100px;
+}
+.logo-img{
+  text-indent: 100px;
+}
+.btn{
+  color: #FDB515;
+  padding: 10px;
+}
+.navbar {
+  background-color: black;
+}
+
+.c1{
+  max-width: 510px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+li {
+  color: #fff;
+  text-align: center;
+}
+.banner{
+  background-image: url('	https://preview.colorlib.com/theme/cakeshop/assets/img/hero/h1_hero1.jpg');
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn2{
+ background-color: #FDB515;
+ padding: 20px 25px;
+border: none;
+}
+.cards{
+  border: 1px solid grey;
+}
+.cardsshow{
+  border: 1px solid grey;
+}
+.work{
+justify-content: space-around;
+}
+.banner2{
+  background-image: url('	https://preview.colorlib.com/theme/cakeshop/assets/img/hero/h1_hero1.jpg');
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
